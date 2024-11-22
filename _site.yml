@@ -11,4 +11,4 @@ href: mailto:<ronniegutierrezc@mail.com>
 href: http://github.com/<verogutierrezasu>/
   output:
   html_document:
-  theme: darkly
+  theme: superhero
